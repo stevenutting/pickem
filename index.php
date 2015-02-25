@@ -1,3 +1,3 @@
 <?php
-print "Hello World! Version 5";
+print "Hello World! Version 6";
 ?>
